@@ -7,6 +7,7 @@ Nagamese is an Assamese-lexified creole language spoken natively in the Northeas
 - [ ] Scrape Nagamese text from Nagamese Khobor. (ongoing)
 - [x] Create a parallel corpus for Nagamese-English.
 - [x] Train baseline models for Nagamese-English & English-Nagamese.
+- [ ] Fine-tune mBART-50 on the dataset.
 
 ## References
 [Machine Translation Models: How to Build and Deploy](https://blog.machinetranslation.io/opennmt-tutorial/) by Yasmin Moslem.
